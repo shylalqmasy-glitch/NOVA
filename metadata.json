@@ -1,0 +1,6 @@
+{
+  "name": "NOVA - AI Discord Architecture & Server Management Platform",
+  "description": "Production SaaS platform to architect, manage, automate, and optimize real Discord servers using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
